@@ -27,3 +27,27 @@ The objectives of this dashboard are to:
 - Compare inventory levels by category and region.
 -Monitor yearly sales performance.
 
+### 2️⃣ Dataset Features
+
+| Feature | Description |
+|----------|-------------|
+| Date | Transaction date |
+| Region | Geographic region |
+| Category | Product category |
+| Supplier | Supplier name |
+| Warehouse | Warehouse location |
+| Order Status | Fulfilled, Pending, or Canceled |
+| Units Sold | Quantity sold |
+| Inventory Level | Available inventory |
+| Transportation Cost | Shipping cost |
+| Order Accuracy | Order accuracy indicator |
+| Lead Time | Delivery lead time (days) |
+| Backorder | Backorder status |
+| Cost of Goods Sold | Product cost |
+| Average Inventory | Average inventory maintained |
+| Warehouse Capacity | Maximum warehouse capacity |
+
+Download the dataset from here:
+
+https://www.kaggle.com/datasets/saidaliahmed/inventory-and-supply-chain-management-dataset
+
