@@ -51,3 +51,13 @@ Download the dataset from here:
 
 https://www.kaggle.com/datasets/saidaliahmed/inventory-and-supply-chain-management-dataset
 
+### 3️⃣  Dashboard Preview
+
+![Dashboard](https://github.com/user-attachments/assets/5c724960-bf60-4fba-b063-bd9b048bf9a3)
+
+
+
+
+
+
+
