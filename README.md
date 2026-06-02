@@ -92,6 +92,14 @@ Inventory is being cycled through roughly 23–24 times, suggesting strong sales
 - The 248 pending orders represent a backlog risk that could affect customer satisfactio
 
 
+### 7️⃣ Tools Used
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+
+
+
 
 
 
