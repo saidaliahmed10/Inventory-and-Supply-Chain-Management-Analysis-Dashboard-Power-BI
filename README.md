@@ -92,13 +92,35 @@ Inventory is being cycled through roughly 23–24 times, suggesting strong sales
 - The 248 pending orders represent a backlog risk that could affect customer satisfactio
 
 
-### 7️⃣ Tools Used
+### 7️⃣ 🛠 Tools Used
 - Power BI
 - Power Query
 - DAX
 - Data Modeling
 
+### 8️⃣ Skills Demonstrated
 
+- Supply Chain Analytics
+- Inventory Analysis
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- DAX Calculations
+- Data Storytelling
+
+
+### 9️⃣ Recommendations 
+
+
+| # | Focus Area | Problem | Key Actions |
+|---|------------|---------|-------------|
+| 1 | 🏭 Warehouse Capacity | Only 34% utilized | Sublet unused space, bulk buy in peak seasons, explore 3PL partnerships |
+| 2 | 📦 Fulfillment Rate | ~30% orders unfulfilled | Auto-reorder triggers, better demand forecasting, supplier SLAs |
+| 3 | 🌍 West Region Inventory | Lowest stock across all categories | Regional demand audit, redistribute stock, set minimum stock thresholds |
+| 4 | ⏱ Electronics Lead Time | Highest lead time at 16.60 days | Diversify suppliers, negotiate faster SLAs, maintain safety stock buffer |
+| 5 | 📈 Sales Growth | Strong growth to 0.30M in 2024 | Scale inventory, forecast 2025 demand, expand top category SKUs |
+| 6 | 🚚 Transportation Costs | Uniform ~0.5M spend across all regions | Freight audit, cross-docking, route optimization, volume discounts |
+| 7 | 🔄 Inventory Turnover | Clothing overstocked vs. Accessories | Promotions on slow SKUs, ABC analysis, JIT for fast-moving categories |
 
 
 
