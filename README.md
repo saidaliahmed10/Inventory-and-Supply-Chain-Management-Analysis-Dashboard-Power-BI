@@ -69,6 +69,28 @@ Inventory is being cycled through roughly 23–24 times, suggesting strong sales
 
 ### 6️⃣  Key Insights
 
+##### 📦 Operational Efficiency
+
+- Warehouse is underutilized at 34.08%, meaning ~66% of capacity is idle — opportunity to consolidate space or take on more stock/third-party storage.
+- High Inventory Turnover (23.47) with only 15.56 days of stock on hand confirms a fast-moving, lean inventory model — low risk of obsolescence.
+
+#### 🚚 Transportation Cost
+
+- Costs are fairly consistent across all 4 regions (North, West, East, South) at around 0.5M per category, suggesting no major regional inefficiency.
+- Accessories and Clothing appear to drive slightly higher transportation spend across regions.
+
+#### 📈 Sales Trend
+
+- Units sold were near zero in 2020, then jumped to 0.05M in 2021, surged to 0.19M–0.19M in 2022–2023, and peaked at ~0.30M in 2024 — showing strong year-over-year growth.
+
+#### ⏱️ Lead Time
+- Lead times are evenly distributed across categories (~15–17 days each), with Electronics slightly highest at 16.60 days (26.32%) worth monitoring for supplier delays.
+
+#### 🔴 Backorder & Order Status
+
+- 838 Fulfilled vs 248 Pending and 114 Canceled a fulfillment rate of ~70%, which signals room for improvement in order completion.
+- The 248 pending orders represent a backlog risk that could affect customer satisfactio
+
 
 
 
