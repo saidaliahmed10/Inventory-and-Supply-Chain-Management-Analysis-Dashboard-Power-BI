@@ -17,7 +17,7 @@ Organizations often face challenges in managing inventory and supply chain opera
 Without proper visibility into these metrics, businesses may experience increased costs and reduced customer satisfaction.
 
 
-### 1️⃣ Objectives
+### 2️⃣ Objectives
 The objectives of this dashboard are to:
 - Monitor warehouse utilization levels.
 - Analyze inventory turnover performance.
@@ -27,7 +27,7 @@ The objectives of this dashboard are to:
 - Compare inventory levels by category and region.
 -Monitor yearly sales performance.
 
-### 2️⃣ Dataset Features
+### 3️⃣ Dataset Features
 
 | Feature | Description |
 |----------|-------------|
@@ -51,9 +51,13 @@ Download the dataset from here:
 
 https://www.kaggle.com/datasets/saidaliahmed/inventory-and-supply-chain-management-dataset
 
-### 3️⃣  Dashboard Preview
+### 4️⃣  Dashboard Preview
 
 ![Dashboard](https://github.com/user-attachments/assets/5c724960-bf60-4fba-b063-bd9b048bf9a3)
+
+
+
+
 
 
 
