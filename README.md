@@ -47,6 +47,11 @@ The objectives of this dashboard are to:
 | Average Inventory | Average inventory maintained |
 | Warehouse Capacity | Maximum warehouse capacity |
 
+#### Dataset Dimensions
+- Total Columns: 15 columns
+
+- Total Rows: 1,200 rows
+
 Download the dataset from here:
 
 https://www.kaggle.com/datasets/saidaliahmed/inventory-and-supply-chain-management-dataset
