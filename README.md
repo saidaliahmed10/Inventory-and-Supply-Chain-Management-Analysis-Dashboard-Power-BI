@@ -57,6 +57,11 @@ https://www.kaggle.com/datasets/saidaliahmed/inventory-and-supply-chain-manageme
 
 
 
+### 5️⃣ KPIs
+
+
+
+
 
 
 
