@@ -59,6 +59,17 @@ https://www.kaggle.com/datasets/saidaliahmed/inventory-and-supply-chain-manageme
 
 ### 5️⃣ KPIs
 
+- Warehouse Utilization: 34.08
+The warehouse is only ~34% utilized out of a 100-point scale, indicating significant available capacity.
+- Days Sales of Inventory: 15.56
+On average, it takes about 15.56 days to sell through current inventory a relatively healthy, fast-moving stock cycle.
+- Inventory Turnover Ratio: 23.47
+Inventory is being cycled through roughly 23–24 times, suggesting strong sales velocity and efficient stock management.
+
+
+### 6️⃣  Key Insights
+
+
 
 
 
