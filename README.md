@@ -1,4 +1,4 @@
-# 📦 Inventory and Supply Chain Management Analysis Dashboard
+# 📦 Inventory and Supply Chain Management Analysis Power BI Dashboard
 
 ### 🌍 Project Overview
 
